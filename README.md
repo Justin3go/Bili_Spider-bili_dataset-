@@ -22,11 +22,11 @@
 
 ## 使用
 如果你需要使用代码去爬取数据，可以参考以下流程：
-***step1:***pip install scrapy
+***step1:*** pip install scrapy
 
-***step2:***cd /爬虫项目的路径/ e:cd C:\??\??\??\Crawler1\bili
+***step2:*** cd /爬虫项目的路径/ e:cd C:\??\??\??\Crawler1\bili
 
-***step3:***选择你需要爬取的数据的区间，在Crawler2\bili1\bili1\spiders\other_data.py或Crawler1\bili\bili\spiders\bili_data.py中
+***step3:*** 选择你需要爬取的数据的区间，在Crawler2\bili1\bili1\spiders\other_data.py或Crawler1\bili\bili\spiders\bili_data.py中
 
 **修改**：![image](https://user-images.githubusercontent.com/63507251/110721709-ff298000-824b-11eb-9b6a-f7a19b44cd43.png)
 里面的标记数字为你的开始位置（建议从1000 000开始）
