@@ -22,6 +22,7 @@
 
 ## 使用
 如果你需要使用代码去爬取数据，可以参考以下流程：
+
 ***step1:*** pip install scrapy
 
 ***step2:*** cd /爬虫项目的路径/ e:cd C:\??\??\??\Crawler1\bili
