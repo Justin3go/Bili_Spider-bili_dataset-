@@ -7,8 +7,7 @@
 
 每三行一条数据
 
-你可以在[这里](链接：https://pan.baidu.com/s/1M1RFHNUBPRa_aTUboBPmGw 
-提取码：p4of )获取我已经爬好了的10万条未经过任何处理的数据；
+你可以在[这里](https://pan.baidu.com/s/1M1RFHNUBPRa_aTUboBPmGw)获取我已经爬好了的10万条未经过任何处理的数据（提取码：p4of）；
 ## Clawler2:
 这个爬虫项目是发现前面那点数据有点不够就单独再爬的一次
 其中包含了每篇文章的
