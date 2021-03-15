@@ -3,7 +3,7 @@
 ## Crawler1:
 这个爬虫项目是爬取的**B站文章加标题**的数据：
 #### 格式为：
-![image](https://user-images.githubusercontent.com/63507251/110720200-23379200-8249-11eb-994e-22cde607d857.png)
+![image](https://user-images.githubusercontent.com/63507251/111125140-3f6e6280-85ac-11eb-9905-cb73a6cb9e12.png)
 
 每三行一条数据，id下面一行为空的代表已经被用户删除的数据，是无效数据；
 
